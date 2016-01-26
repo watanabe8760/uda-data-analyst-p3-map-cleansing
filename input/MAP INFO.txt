@@ -1,0 +1,5 @@
+[Location] Singapore
+[Map URL] https://www.openstreetmap.org/node/531668011
+[Data URL] The real project data "singapore.osm" was downloaded from MAPZEN. https://mapzen.com/data/metro-extracts
+
+[Note] I chose Singapore because I might move there in the near future.

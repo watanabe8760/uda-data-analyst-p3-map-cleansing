@@ -1,0 +1,13 @@
+[(430, 'bus'),
+ (11, 'road'),
+ (8, 'subway'),
+ (6, 'tram'),
+ (3, 'mtb'),
+ (2, 'railway'),
+ (2, 'monorail'),
+ (2, 'hiking'),
+ (1, 'foot,_bicycle'),
+ (1, 'foot'),
+ (1, 'ferry'),
+ (1, 'bicycle'),
+ (1, 'aerialway')]
